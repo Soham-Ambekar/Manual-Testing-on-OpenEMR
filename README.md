@@ -16,9 +16,9 @@ The testing was performed on the public demo version of OpenEMR to validate its 
 ## 🧩 Modules Tested
 1. Login  
 2. Patient  
-3. Appointment  
-4. Billing *(skipped during integration)*  
-5. Logout  
+3. Appointment
+4. Logout
+
 
 ---
 
@@ -36,7 +36,8 @@ The testing was performed on the public demo version of OpenEMR to validate its 
 ---
 
 ## 🐞 Defect Reports
-- **Appointment Module Defect (AP_05)** – Partial pass, validation issue during appointment booking.  
+- **Patient Module Defect (Ft_13)** – Partial pass, validation issue during appointment booking.
+- **Appointment Module Defect (Ft_23)** – Partial pass, validation issue during appointment booking.  
 - **UX/UI Defects** – Identified layout inconsistencies, outdated design, and missing responsive behavior.
 
 ---
@@ -69,6 +70,5 @@ The testing was performed on the public demo version of OpenEMR to validate its 
 
 ## 👨‍💻 Tested By
 **Soham Kishor Ambekar**  
-Manual QA Engineer | B.Tech CSE (2025)  
-📍 Satara, Maharashtra  
-📧 sohammabkear2002@gmail.com  
+
+
