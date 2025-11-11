@@ -43,7 +43,7 @@ The testing was performed on the public demo version of OpenEMR to validate its 
 ---
 
 ## 🛠️ Tools Used
-- **Testing Environment:** [OpenEMR Demo](https://demo.openemr.io)
+- **Testing Environment:** [OpenEMR Demo](https://demo.openemr.io/openemr/interface/login/login.php?site=default)
 - **Documentation:** Microsoft Excel, Google Sheets
 - **Browser:** Chrome
 - **Testing Type:** Manual Testing
